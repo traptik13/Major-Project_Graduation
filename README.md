@@ -1,4 +1,4 @@
-# Major-Project_Graduation
+# Project_Railway Reservation Management System
 1. The objective of this project was to develop a Railway Reservation Management System that allows users to book train tickets, check train schedules, and manage reservations efficiently. The system aimed to solve the manual ticketing issues by providing a digital platform for seamless booking, reducing paperwork, and improving accessibility.  
 
 2. Technologies Used: HTML, CSS, PHP, MySQL.
